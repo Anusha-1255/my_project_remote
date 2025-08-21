@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 print("This is a README file")
-
+print("the conflict was resolved")
 
 =======
 print("merge conflict")
